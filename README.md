@@ -11,7 +11,7 @@ iOS를 위한 에라 변환기
 
 cmd에서 실행
 ```cmd
-  appleEmueraConverter.bat C:/path/your_era_folder/
+  applEmueraConverter.bat C:/path/your_era_folder/
 ```
 
 실행하고 빨간색 글씨가 뜨는 오류는 무시하면 됩니다. 
